@@ -9,10 +9,14 @@
  Todas las módulas se comunican a través de pulsos de 5v, y son alimentados por fuentes DC 12V, las cuales pueden ser copiadas
   
   ### [HYBRIDA](https://github.com/22bits/Matrinicas/tree/master/Hybrida)
+  
+  ![hybrida01](https://github.com/22bits/Matrinicas/tree/master/Hybrida/images)
 
   Herramienta de característica dual. Controla motores de diverso tipo a la vez que es capaz de recibir su sonido a través de un preamplificador de micrófonos de contacto.
   
   ### [MICROSEQULENTA](https://github.com/22bits/Matrinicas/tree/master/Micro-Sequlenta)
+  
+  ![microsequlenta01](https://github.com/22bits/Matrinicas/blob/master/Micro-Sequlenta/images/microseq01.jpg)
 
   Secuenciadora-suculenta pequeña, permite encender y apagar su salida en base a un reloj interno o leyendo una señal externa.
      
