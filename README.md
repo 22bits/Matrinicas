@@ -1,10 +1,12 @@
 # Matrínicas
 
-  Sistema modular electromecánico de generación y activación sonora, derivado de Tutupá drum machine y 22machines, y desarrollado en Chile por el [Colectivo 22bits](https://www.22bits.org) (Bárbara Molina y Matías Serrano). 
+  Sistema modular electromecánico de generación y activación sonora, derivadas de Tutupá drum machine y 22machines, y desarrolladas en Chile por el [Colectivo 22bits](https://www.22bits.org) (Bárbara Molina y Matías Serrano).
   
-  Motivados por un pensamiento tecnofeminista, proponemos replantearnos la tecnología y su incidencia en los cuerpos. Actualmente las herramientas de generación sonora están pensadas desde una lógica eurocéntrica, patriarcal y capitalista. Desarrollar hoy en día tecnología en latinoamérica, históricamente subyugada en el colonialismo, requiere replantear los modos de diseño, producción y distribución de las dispositivas, utilizando tecnologías, estéticas e imaginarios locales, y transformando la lógica clientelista de la transmisión fabricante-usuario, hacia un diálogo crítico, constructivo, de pedagogía multidireccional y aprendizaje rizomático.
+  Recibe su nombre de un pensamiento matricial y rizomático, de crecimiento divergente y horizontal, y su sufijo "-ica" es un homenaje a la mazúrquica modérnica, canción de la cantautora e investigadora musical chilena Violeta Parra.
+  
+  Motivadas por un pensamiento tecnofeminista, proponemos replantearnos la tecnología y su incidencia en los cuerpos. Actualmente las herramientas de generación sonora están pensadas desde una lógica eurocéntrica, patriarcal y capitalista. Desarrollar hoy en día tecnología en latinoamérica, históricamente subyugada en el colonialismo, requiere replantear los modos de diseño, producción y distribución de las dispositivas, utilizando tecnologías, estéticas e imaginarios locales, y transformando la lógica clientelista de la transmisión fabricante-usuario, hacia un diálogo crítico, constructivo, de pedagogía multidireccional y aprendizaje rizomático.
 
- Todos los módulos se comunican a través de pulsos de 5v, y son alimentados por fuentes DC de 9 a 12v. Si no entiendes de qué estamos hablando, ve al apartado de preguntas frecuentes al final de la página.
+ Todas las módulas se comunican a través de pulsos de 5v, y son alimentados por fuentes DC 12V, las cuales pueden ser copiadas
   
   ### [HYBRIDA](https://github.com/22bits/Matrinicas/tree/master/Hybrida)
 
@@ -12,7 +14,7 @@
   
   ### MICROSEQULENTA
 
-  Secuenciador-suculenta pequeño, permite encender y apagar su salida en base a un reloj interno o leyendo una señal externa.
+  Secuenciadora-suculenta pequeña, permite encender y apagar su salida en base a un reloj interno o leyendo una señal externa.
      
  
  ____________________

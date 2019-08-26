@@ -2,7 +2,7 @@
  
  Hybrida es una ser de naturaleza dual, a veces humana y a veces animal, que utiliza sus tentáculos para generar movimiento en el entorno y escuchar sus vibraciones a través de su mano.
  
- ### Especificaciones
+ ### Especificaciones técnicas
  
  ##### Control de motor
  
