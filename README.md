@@ -6,13 +6,13 @@
 
  Todos los módulos se comunican a través de pulsos de 5v, y son alimentados por fuentes DC de 9 a 12v. Si no entiendes de qué estamos hablando, ve al apartado de preguntas frecuentes al final de la página.
   
-  ### HYBRIDA
+  ### [HYBRIDA](https://github.com/22bits/Matrinicas/tree/master/Hybrida)
 
-    Herramienta de característica dual. Controla motores de diverso tipo a la vez que es capaz de recibir su sonido a través de un preamplificador de micrófonos de contacto.
+  Herramienta de característica dual. Controla motores de diverso tipo a la vez que es capaz de recibir su sonido a través de un preamplificador de micrófonos de contacto.
   
   ### MICROSEQULENTA
 
-    Secuenciador-suculenta pequeño, permite encender y apagar su salida en base a un reloj interno o leyendo una señal externa.
+  Secuenciador-suculenta pequeño, permite encender y apagar su salida en base a un reloj interno o leyendo una señal externa.
      
  
  ____________________
