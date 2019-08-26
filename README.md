@@ -8,11 +8,11 @@
   
   ### HYBRIDA
 
-    Herramienta de característica dual. Controla motores de diverso tipo a la vez que es capaz de recibir su sonido a través de un preamplificador de micrófonos de contacto.
+  Herramienta de característica dual. Controla motores de diverso tipo a la vez que es capaz de recibir su sonido a través de un preamplificador de micrófonos de contacto.
   
   ### MICROSEQULENTA
 
-    Secuenciador-suculenta pequeño, permite encender y apagar su salida en base a un reloj interno o leyendo una señal externa.
+  Secuenciador-suculenta pequeño, permite encender y apagar su salida en base a un reloj interno o leyendo una señal externa.
      
  
  ____________________
