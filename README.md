@@ -10,7 +10,7 @@
   
   ### [HYBRIDA](https://github.com/22bits/Matrinicas/tree/master/Hybrida)
   
-  ![hybrida01](https://github.com/22bits/Matrinicas/tree/master/Hybrida/images)
+  ![hybrida01](https://github.com/22bits/Matrinicas/tree/master/Hybrida/images/hybrida01.jpg)
 
   Herramienta de característica dual. Controla motores de diverso tipo a la vez que es capaz de recibir su sonido a través de un preamplificador de micrófonos de contacto.
   
