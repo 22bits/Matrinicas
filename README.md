@@ -1,12 +1,12 @@
 # Matrínicas
 
-  Sistema modular electromecánico de generación y activación sonora, derivadas de Tutupá drum machine y 22machines, y desarrolladas en Chile por el [Colectivo 22bits](https://www.22bits.org) (Bárbara Molina y Matías Serrano).
+  Sistema modular electromecánico de generación y activación sonora, derivadas de Tutupá drum machine y 22machines, y desarrolladas en Chile por la [Colectiva 22bits](https://www.22bits.org) (Bárbara Molina y Matías Serrano).
   
-  Recibe su nombre de un pensamiento matricial y rizomático, de crecimiento divergente y horizontal, y su sufijo "-ica" es un homenaje a la mazúrquica modérnica, canción de la cantautora e investigadora musical chilena Violeta Parra.
+  Basado en la idea de matriz, un espacio múltidimensional capaz de generar diversas experiencias creativas, y alusivas al imaginario latinoamericano, como la mazúrquica modérnica de Violeta Parra, la hechicería y flora, fauna y funga. 
   
   Motivadas por un pensamiento tecnofeminista, proponemos replantearnos la tecnología y su incidencia en los cuerpos. Actualmente las herramientas de generación sonora están pensadas desde una lógica eurocéntrica, patriarcal y capitalista. Desarrollar hoy en día tecnología en latinoamérica, históricamente subyugada en el colonialismo, requiere replantear los modos de diseño, producción y distribución de las dispositivas, utilizando tecnologías, estéticas e imaginarios locales, y transformando la lógica clientelista de la transmisión fabricante-usuario, hacia un diálogo crítico, constructivo, de pedagogía multidireccional y aprendizaje rizomático.
 
- Todas las módulas se comunican a través de pulsos de 5v, y son alimentados por fuentes DC 12V, las cuales pueden ser copiadas
+ Todas las módulas se comunican a través de pulsos de 5v, y son alimentados por fuentes DC 12V, las cuales pueden ser copiadas y compartidas entre ellas.
   
   ### [HYBRIDA](https://github.com/22bits/Matrinicas/tree/master/Hybrida)
   
