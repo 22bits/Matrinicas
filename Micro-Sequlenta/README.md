@@ -1,6 +1,6 @@
  # Micro-Sequlenta
  
- Micro-Sequlenta es una pequeña secuenciadora, conversora de pulsos elementales en rítmos para alargar y secuenciar rítmos en las máquinas a las que está conectada. 
+ Micro-Sequlenta es una pequeña suculenta secuenciadora, conversora de pulsos elementales en rítmos para alargar y secuenciar rítmos en las máquinas a las que está conectada. 
  
  ### Especificaciones técnicas
  
