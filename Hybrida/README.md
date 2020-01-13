@@ -25,4 +25,7 @@
   - Alimentación a través de conector DC de 2.1mm
   - Voltaje de entrada DC de centro positivo, de 7V a 12V (12V recomendado)
   - Sus dos entradas DC permiten copiar el voltaje de alimentación hacia otros módulos.
+  - Consumo de corriente (sin motor) ~ 50mA
+  - Consumo de corriente (motor DC) < 500mA
+  - Consumo de corriente (Solenoide) ~ 700mA
   
