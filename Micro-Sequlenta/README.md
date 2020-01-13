@@ -17,4 +17,5 @@
   - Alimentación a través de conector DC de 2.1mm
   - Voltaje de entrada DC de centro positivo, de 7V a 12V (12V recomendado)
   - Sus dos entradas DC permiten copiar el voltaje de alimentación hacia otros módulos.
+  - Consumo de corriente ~ 60mA
   
