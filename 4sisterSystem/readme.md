@@ -12,6 +12,8 @@
 
 [Esquemático](https://github.com/22bits/Matrinicas/blob/master/4sisterSystem/schematic.pdf)
 
+### Mapas de componentes
+
 ![image](https://github.com/22bits/Matrinicas/blob/master/4sisterSystem/img/mapa_front.png)
 
 ![image](https://github.com/22bits/Matrinicas/blob/master/4sisterSystem/img/mapa_back.png)
